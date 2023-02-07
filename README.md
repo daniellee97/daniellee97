@@ -1,5 +1,7 @@
-### Hi there 👋
+# ✋ Hello and welcome! 🤚
 
+<a href="https://www.linkedin.com/in/daniel-lee-0561b915a/"/>
+<img >
 <!--
 **daniellee97/daniellee97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
