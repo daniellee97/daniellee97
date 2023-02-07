@@ -43,23 +43,23 @@ hobbies: ['🏂', '⛷️', '🎾', '🏌️', '🕹️', '🛫']
 ## 🖥️ Projects
 ### 💻 Web / Mobile Application Projects 📱
 <p>
-  Gym Equipment Reservation Mobile Application (Swift): https://github.com/daniellee97/CMPE133-SJSUSRAC <br/>
-  Ridesharing Mobile Application(Swift): https://github.com/daniellee97/CarPal <br/>
-  Hotel booking website(HTML, React.js): https://github.com/rheadash/cmpe165proj <br/>
+  Gym Equipment Reservation Mobile Application (Swift): <a href="https://github.com/daniellee97/CMPE133-SJSUSRAC"> https://github.com/daniellee97/CMPE133-SJSUSRAC </a> <br/>
+  Ridesharing Mobile Application(Swift): <a href="https://github.com/daniellee97/CarPal">https://github.com/daniellee97/CarPal </a> <br/>
+  Hotel booking website(HTML, React.js): <a href="https://github.com/rheadash/cmpe165proj">https://github.com/rheadash/cmpe165proj </a><br/>
   Ridesharing Mobile Application(React Native, Node.js): COMING SOON!
 </p>
 
 ### 🧑‍💻 Machine Learning Projects
 <p>
-  Housing Price Prediction Model(Python): https://github.com/daniellee97/Housing-price-prediction <br/>
-  Twitter Toxic Comment Categorization Model(Python, TensorFlow): https://github.com/daniellee97/ToxicCommentProject
+  Housing Price Prediction Model(Python): <a href="https://github.com/daniellee97/Housing-price-prediction"> https://github.com/daniellee97/Housing-price-prediction </a> <br/>
+  Twitter Toxic Comment Categorization Model(Python, TensorFlow): <a href="https://github.com/daniellee97/ToxicCommentProject"> https://github.com/daniellee97/ToxicCommentProject </a>
 </p>
 
 ### 🤟 Other Projects
 <p>
-  Search Engine Project(Java):https://github.com/daniellee97/Search-Engine-Projects <br/>
-  Parse Project(Java): https://github.com/daniellee97/ParseProjects <br/>
-  MySQL Basics(MySQL): https://github.com/daniellee97/Mysql_course
+  Search Engine Project(Java): <a href="https://github.com/daniellee97/Search-Engine-Projects">https://github.com/daniellee97/Search-Engine-Projects </a> <br/>
+  Parse Project(Java): <a href="https://github.com/daniellee97/ParseProjects"> https://github.com/daniellee97/ParseProjects </a> <br/>
+  MySQL Basics(MySQL): <a href="https://github.com/daniellee97/Mysql_course">https://github.com/daniellee97/Mysql_course </a>
 </p>
 
 <!--
