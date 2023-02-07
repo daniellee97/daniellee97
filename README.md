@@ -1,16 +1,18 @@
-<h1 align="center"> ✋ Hello and welcome! 🤚 <h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20and%20Welcome👋&fontSize=40" />
+</p>
+
+<h2 align="center"> 🙌 Make a connection!</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-lee-0561b915a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+</p>
+  
 <p align="center">
   <a href="https://giphy.com/gifs/creative-courage-democrat-blue-and-red-lets-move-forward-together-NcvNUDRuzjbzgJMxrW">
-    <img src="https://media3.giphy.com/media/NcvNUDRuzjbzgJMxrW/giphy.gif?cid=ecf05e470jyueern8r7ch39sor6rzio627yaa9vqv6clne4r&rid=giphy.gif&ct=g" width="75%" height="300" frameBorder="0" class="giphy-embed" allowFullScreen /> 
+    <img src="https://media3.giphy.com/media/NcvNUDRuzjbzgJMxrW/giphy.gif?cid=ecf05e470jyueern8r7ch39sor6rzio627yaa9vqv6clne4r&rid=giphy.gif&ct=g" width="70%" height="230" frameBorder="0" class="giphy-embed" allowFullScreen /> 
   </a>
 </p>
   
-  
-## 🙌 Make a connection!
-<p>
-  <a href="https://www.linkedin.com/in/daniel-lee-0561b915a/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-</p>
-
 ## 💼 Information about Me
 ```yaml
 name: Daniel Lee
