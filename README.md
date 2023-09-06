@@ -48,7 +48,7 @@ hobbies: ['🏂', '⛷️', '🎾', '🏌️', '🕹️', '🛫']
   Gym Equipment Reservation Mobile Application (Swift): <a href="https://github.com/daniellee97/CMPE133-SJSUSRAC"> https://github.com/daniellee97/CMPE133-SJSUSRAC </a> <br/>
   Ridesharing Mobile Application(Swift): <a href="https://github.com/daniellee97/CarPal">https://github.com/daniellee97/CarPal </a> <br/>
   Hotel booking website(HTML, React.js): <a href="https://github.com/rheadash/cmpe165proj">https://github.com/rheadash/cmpe165proj </a><br/>
-  Ridesharing Mobile Application(React Native, Node.js): COMING SOON!
+  Ridesharing Mobile Application(Flutter, Node.js): <a href="https://github.com/daniellee97/Sharide_dart">https://github.com/daniellee97/Sharide_dart </a><br />
 </p>
 
 ### 🧑‍💻 Machine Learning Projects
